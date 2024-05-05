@@ -2,7 +2,7 @@
 
 ## [Project 1: Student Mental Health Analysis] (
 
-##[Project 2: HR Distribution Employee report] (https://github.com/aDataJourney990/HR-employee-report)
+## [Project 2: HR Distribution Employee report] (https://github.com/aDataJourney990/HR-employee-report)
 
 This is a personal project I carried out to help practice my SQL skills, data visualization and data reading skills.
 
