@@ -1,6 +1,6 @@
 # Amatullah-s_portfolio
 
-## [Project 1: Student Mental Health Analysis] (https://github.com/AMATULLAH481/Student-Mental-Health)
+## [Project 1: Student Mental Health Analysis](https://github.com/AMATULLAH481/Student-Mental-Health)
 
 This is a personal project I carried out to help practice my SQL skills, data visualization using Power BI and data reading skills.
 
@@ -12,7 +12,7 @@ This is a personal project I carried out to help practice my SQL skills, data vi
 * I made use of filters to ensure interactivity and dynamic use.
 * I created a total of 3 dashboards to ensure my insights were passed across efficiently.
 
-## [Project 2: HR Distribution Employee report] (https://github.com/aDataJourney990/HR-employee-report)
+## [Project 2: HR Distribution Employee report](https://github.com/aDataJourney990/HR-employee-report)
 
 This is a personal project I carried out to help practice my SQL skills, data visualization and data reading skills.
 
