@@ -1,6 +1,7 @@
 # Amatullah-s_portfolio
 
-## [Project 1: Student Mental Health Analysis] (https://github.com/AMATULLAH481/Student-Mental-Health/tree/main)
+## [Project 1: Student Mental Health Analysis] (https://github.com/AMATULLAH481/Student-Mental-Health)
+
 This is a personal project I carried out to help practice my SQL skills, data visualization using Power BI and data reading skills.
 
 * Data was obtained from Kaggle.
