@@ -1,4 +1,4 @@
-# Amatullah-s_portfolio
+# Data-s_portfolio
 
 ## [Project 1: Student Mental Health Analysis](https://github.com/AMATULLAH481/Student-Mental-Health)
 
